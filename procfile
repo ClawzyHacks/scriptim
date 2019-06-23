@@ -1,0 +1,7 @@
+pip install --upgrade pip
+pip install urllib2
+pip install sys
+pip install threading
+pip install random
+pip install re
+python hulk.py https://anonhq.com
